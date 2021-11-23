@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class operacion6{
+public class operacion2{
   static Scanner sc = new Scanner(System.in);
   static void DescuentosGCY(){
     // definir variables

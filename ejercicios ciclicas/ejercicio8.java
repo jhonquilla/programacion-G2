@@ -11,7 +11,7 @@ static Scanner sc = new Scanner(System.in);
   
     //Datos de entrada
     System.out.println("\tPrograma que determina la inversion final");
-    System.out.println("Ingrese los anhos de ahorro");
+    System.out.println("Ingrese los datos de ahorro");
     a=sc.nextInt();
     a=(a*n);
     for(int i = 1;i <=a;i++){

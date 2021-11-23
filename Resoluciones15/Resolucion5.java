@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class EjercicioQuince{
+public class Ejerciciocinco{
 static Scanner sc = new Scanner(System.in);
 static void algoritmoDiasSemanaEAMQ(){
   // definir variables
